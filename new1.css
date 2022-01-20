@@ -1,0 +1,22 @@
+body{
+  	background-image:url("WEBSITE/photo2.jpg");
+  	background-size: cover;
+  }
+h3{
+	color: green;
+}
+ul{
+	display: inline;
+	list-style: lower-roman;
+	color: blue;
+
+}
+ul li:hover{
+  Width: 150px;
+  Padding: 10px;
+  Border-bottom: 1px dotted white;
+  Background: transparent;
+  Border-radius: 0;
+  Text-align: left;
+  }
+  

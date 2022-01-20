@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>my website</title>
+	<link rel="stylesheet" type="text/css" href="exxternnalstle.css">
+</head>
+<body>
+<div class="main">
+	<div class="header">
+		<h2>LELETI</h2>
+	</div>
+	<div class="Paragraph">
+		<p id="Paragraph">Multimedia is classified as a combination of text, graphics, sound, animation and video and controlled by the computer. Multimedia has presented a challenge to educators that want to engage students in the class and still providing the needed content in learning. The rising of the revolution due to the coming of technology which has changed the dynamics of educational institutes and has also influenced the education system in a very big way and the way people interact in the society using the digital platform.</p>
+	</div>
+	<div class="image">
+		<img src="pic.JPG">
+		<div class="buttons">
+			<a href="about.html">
+				ABOUT
+			</a>
+			<a href="contact.html">
+				CONTACT
+			</a>
+		</div>
+</div>
+</body>
+</html>
